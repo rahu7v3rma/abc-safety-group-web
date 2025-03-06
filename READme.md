@@ -1,8 +1,7 @@
 <img src="https://github.com/user-attachments/assets/f9b1bff9-9aca-4d76-8dd5-1ea2b4d6286a">
 
-Client Website: http://abcsafetygroup.com
-
 # ABCSafetyGroup LMS Web App
+http://abcsafetygroup.com
 
 ### Local Development
 
