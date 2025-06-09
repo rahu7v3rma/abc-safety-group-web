@@ -1,8 +1,4 @@
-<img src="https://github.com/user-attachments/assets/f9b1bff9-9aca-4d76-8dd5-1ea2b4d6286a">
-<img width="1415" alt="Screenshot 2025-03-28 at 3 25 20 PM" src="https://github.com/user-attachments/assets/87a50a83-1c2b-4cab-b0ee-09d68dc32349" />
-
 # ABCSafetyGroup LMS Web App
-http://abcsafetygroup.com
 
 ### Local Development
 
